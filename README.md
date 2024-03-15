@@ -24,8 +24,12 @@ Connect Four is played on a 6x7 grid, where players take turns dropping coloured
 
 
 ## 3. Gameplay Illustrations:                  
+
 ### Start
  ![Screenshot (49)](https://github.com/bluniv/Connect-Four-Game-with-AI/assets/152321937/df27a75b-f63a-4d8d-93eb-2e2a514a37b9)
+
+### End
+![Screenshot (50)](https://github.com/bluniv/Connect-Four-Game-with-AI/assets/152321937/934334eb-5ca5-4cee-85a6-1c9ecfba92e1)
 
 
 
