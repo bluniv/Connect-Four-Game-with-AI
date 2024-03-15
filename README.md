@@ -1,16 +1,17 @@
 # Connect Four Game with AI
 
-Table of Contents:
-1. Introduction
-2. Game Overview
-3. Gameplay Illustrations
-4. Implementation Details
-   - 4.1 Game Mechanics
-   - 4.2 AI Algorithm: Minimax with Alpha-Beta Pruning
-   - 4.3 Integration of AI Algorithm
-5. How the AI Contributes to the Game
-6. Conclusion
-7. References
+| Table of Contents: |
+|--------------------|
+| 1. Introduction |
+| 2. Game Overview |
+| 3. Gameplay Illustrations |
+| 4. Implementation Details |
+|   - 4.1 Game Mechanics |
+|   - 4.2 AI Algorithm: Minimax with Alpha-Beta Pruning |
+|   - 4.3 Integration of AI Algorithm |
+| 5. How the AI Contributes to the Game |
+| 6. Conclusion |
+| 7. References |
 
 
 1. Introduction:
