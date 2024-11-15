@@ -1,5 +1,5 @@
 # Connect Four Game with AI
-
+ 
 | Table of Contents: |
 |--------------------|
 | 1. Introduction |
