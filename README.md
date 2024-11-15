@@ -12,7 +12,7 @@
 | 5. How the AI Contributes to the Game |
 | 6. Conclusion |
 | 7. References | 
- 
+     
 
 ## 1. Introduction:
 
