@@ -3,7 +3,7 @@
 | Table of Contents: |
 |--------------------|
 | 1. Introduction |
-| 2. Game Overview |
+| 2. Game Overview | 
 | 3. Gameplay Illustrations |
 | 4. Implementation Details |
 |           - 4.1 Game Mechanics |
